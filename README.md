@@ -30,7 +30,7 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](assets/contact.png)
+![Calculator Screenshot](assets/calculator.png)
 
 ---
 
