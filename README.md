@@ -23,8 +23,7 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 ## 🛠️ Tech Stack
 
 - HTML5  
-- CSS3  
-- JavaScript  
+- CSS3   
 
 ---
 
